@@ -9,11 +9,14 @@
 ## Portfolio:
 https://supahmonke.github.io
 
-# Statistics and top languages:
+# Statistics:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=supahmonke&show_icons=true&theme=merko" />
+</a>
+
+## Top languages:
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&langs_count=6&theme=merko&layout=compact&card_width=320" />
+  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&langs_count=6&theme=merko" />
 </a>
 
 # Time spend:
