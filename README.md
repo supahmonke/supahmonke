@@ -16,7 +16,7 @@ https://supahmonke.github.io
 
 ## Top languages:
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&langs_count=6&theme=merko" />
+  <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supahmonke&langs_count=6&theme=merko" />
 </a>
 
 # Time spend:
