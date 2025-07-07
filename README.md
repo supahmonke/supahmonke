@@ -1,7 +1,6 @@
 ### Hi, I'm Alex!
 
-# I'm a 18 year old student at TREDU studying as a programmer
-- **Pronouns:** He/Them
+# I'm a 19 year old student at TREDU studying as a programmer
 - **What I Know?:** a buntch of things from various Code languages to some game engines tho im not an expert i can always keep learning
 - **What are my hobbies?:** I play Video and RP games i also sometimes do my own projects
 
