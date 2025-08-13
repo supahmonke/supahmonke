@@ -18,8 +18,8 @@ https://supahmonke.github.io
   <img height=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supahmonke&langs_count=6&theme=merko" />
 </a>
 
-# Time spend:
-[![Supahmonke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=supahmonke\&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+## Time spend:
+[![Supahmonke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=supahmonke\&layout=compact&theme=merko)](https://wakatime.com/@supahmonke)
 
 ## Credits:
 Github read me stats:
