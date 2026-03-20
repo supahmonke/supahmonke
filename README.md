@@ -20,6 +20,7 @@ https://supahmonke.github.io
 
 ## Time spend:
 [![Supahmonke's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=supahmonke\&layout=compact&theme=merko)](https://wakatime.com/@supahmonke)
+(Note! This may not be entirely accurate since i started using WakaTime a few years after starting my studies)
 
 ## Credits:
 Github read me stats:
