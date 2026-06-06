@@ -1,6 +1,6 @@
 ### Hi, I'm Alex!
 
-# I'm a 19 year old student at TREDU studying as a programmer
+# I'm a 20 year old programmer
 - **What I Know?:** Bunch of things from various Code languages to some game engines, altho im not an experta and I will always keep learning.
 - **What are my hobbies?:** I play Video and RP games, I do also sometimes do my own projects.
 
